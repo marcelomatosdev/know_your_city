@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Do you Know this place in Winnipeg?</string>
+
+<!--    Canadian Museum for Human Rights-->
+    <string name="cmhr_name">Canadian Museum for Human Rights</string>
+    <string name="cmhr_text">Be inspired; visit the Canadian Museum for Human Rights. Whether you’re interested in exploring important stories, or awesome architecture, this Museum is not to be missed.
+        Its galleries are built around human rights themes. Using the latest technologies, oldest forms of storytelling and timeless power of art, the hundreds of stories featured here relay the importance of rights for all. The variety of content and programming means there is something of interest for visitors of all ages.
+        Inclusive design provides visitors with a journey that sets new world standards for universal accessibility. Bilingual exhibits and programs mean visits can be experienced in either of Canada’s official languages.
+    </string>
+
+<!--    Circle of Life Thunderbird House-->
+    <string name="circleoflifethunderbirdhouse_name">Circle of Life Thunderbird House</string>
+    <string name="circleoflifethunderbirdhouse_text">The Circle of Life Thunderbird House is s home for Aboriginal spirituality and culture. It is a focal point and mecca for Aboriginal people coming from rural communities to Winnipeg urban environment.</string>
+
+<!--    Back Alley Arctic-->
+    <string name="backalleyarctic_name">Back Alley Arctic</string>
+    <string name="backalleyarctic_text">Make you way down the the alleyway of Canora and Ethelbert Street between Westminster and Wolseley and explore the walkable, bikeable back lane Arctic Art Gallery created by Kal Barteski.
+        Chat with one of the local Acric Ambassadors (neighbours) to learn more!
+        On the night of Nuit Blanche, see the alleyway transformed with twinkle lights.
+        Remember: Please respect the neighborhood and keep noise to a minimum after 10 p.m.
+    </string>
+
+<!--    Manitoba Legislative Building-->
+    <string name="manitobalegislativebuilding_name">Manitoba Legislative Building</string>
+    <string name="manitobalegislativebuilding_text">Visit Manitoba’s number one citizen, the beloved “Golden Boy,” who is perched atop the Manitoba Legislative Building. Completed in 1920, many consider Manitoba’s third Legislative Building to be the finest provincial Legislative Building in the country. Explore some of Manitoba’s rich history on the Legislative grounds, with various statues and plaques.
+        The building is open from 8 a.m. to 8 p.m. for self-guided tours.
+        Guided tours are available at no charge from July 1 to the Labour Day long weekend in September on an hourly basis.
+        Groups of 10 or more require advance tour reservations during the summer season.
+        Appointments will be required from September to June. To book an appointment, please call 204.945.5813.
+        <href>https://www.tourismwinnipeg.com/things-to-do/architecture-and-design/display,listing/05932/manitoba-legislative-building</href>
+    </string>
+
+<!--    Esplanade Riel Pedestrian Bridge-->
+    <string name="esplanaderielpedestrianbridge_name">Esplanade Riel Pedestrian Bridge</string>
+    <string name="esplanaderielpedestrianbridge_text">This five-metre wide and 250-metre long “people path,” is located north of the junction of the historic Red and Assiniboine Rivers, and provides a link between The Forks and Winnipeg’s French Quarter. The structure, cable-stayed from a single, transversely inclined pylon rising 57 metres above the Red River, reflects the lightweight nature of its pedestrian traffic, while the spire signifies a place of meeting in the middle of the Red River. A historical diorama can be viewed from the bridge. The bridge was named in honour of Louis Riel.
+    </string>
+
+<!--    St. Boniface Cathedral-Basilica-->
+    <string name="stbonifacecathedral_name">St. Boniface Cathedral-Basilica</string>
+    <string name="stbonifacecathedral_text">The original cathedral, built in 1908, was destroyed by fire in 1968. The remaining walls were incorporated into the design of the new church, creating a dramatic facade facing west across the Red River towards downtown Winnipeg.
+    </string>
+
+<!--    University of Manitoba-->
+    <string name="universityofmanitoba_name">University of Manitoba</string>
+    <string name="universityofmanitoba_text">The University of Manitoba is Western Canada’s first university. Founded in 1877, the U of M is the largest and only research-intensive university in the province offering more than 90 degrees, diplomas, and certificates with more than 60 at the undergraduate level, including professional disciplines such as medicine, law, and engineering. The university consists of a main Fort Garry Campus; a downtown Bannatyne Campus adjacent to Winnipeg’s Health Sciences Centre; and many other satellite locations. Visit the Fort Garry campus to see rocks, fossils and skeleton replicas of gigantic creatures from a bygone era at The Ed Leith Cretaceous Menagerie; view contemporary and historical art at Gallery One One One; enjoy a performance at the Black Hole Theatre; take in a jazz, opera, choral, or chamber music concert in Eva Clare Hall; or cheer on the Bison athletes in the sport of your choice— football, hockey, basketball and more.
+    </string>
+
+
+</resources>
